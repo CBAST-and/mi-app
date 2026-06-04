@@ -1,5 +1,5 @@
-// El video ID de YouTube se puede cambiar cuando tengas el tuyo listo
-const VIDEO_ID = 'gaD55NqPJA0'
+// El video ID de YouTube se puede cambiar para mostrar un video diferente
+const VIDEO_ID = 'wzSQNv56uP4' 
 
 export default function Experiencia() {
   return (

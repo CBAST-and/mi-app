@@ -17,14 +17,6 @@ export default function Experiencia() {
           allowFullScreen
         />
       </div>
-
-      <div className="card" style={{ marginTop: '1.5rem', maxWidth: 620 }}>
-        <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem', lineHeight: 1.7 }}>
-          En este video explico paso a paso cómo construí la aplicación:
-          la estructura de carpetas, la lógica del traductor de números y las decisiones de diseño
-          que tomé para lograr una interfaz limpia y funcional.
-        </p>
-      </div>
     </div>
   )
 }
